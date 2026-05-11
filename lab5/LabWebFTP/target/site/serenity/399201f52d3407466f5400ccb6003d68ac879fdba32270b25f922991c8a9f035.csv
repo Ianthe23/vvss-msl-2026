@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Scenario test","Scenariu: login, creare folder, logout (fara stergere)","SUCCESS","2026-05-11T13:23:56.029899+03:00[Europe/Bucharest]","0.0","19.11"
+"Scenario test","Scenariu: login valid, creare folder, stergere folder, logout","SUCCESS","2026-05-11T13:24:15.288676+03:00[Europe/Bucharest]","0.0","39.89"
+"Scenario test","Scenariu: login si logout simplu","SUCCESS","2026-05-11T13:24:55.271877+03:00[Europe/Bucharest]","0.0","11.22"

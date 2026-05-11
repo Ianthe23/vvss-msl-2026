@@ -1,0 +1,12 @@
+demo/pages/DictionaryPage.class
+demo/steps/serenity/LoginSteps.class
+demo/pages/Net2ftpDashboardPage.class
+demo/steps/serenity/ScenarioSteps.class
+demo/util/AuthProxyManager.class
+demo/pages/Net2ftpPage.class
+demo/features/search/SearchByKeywordStory.class
+demo/features/search/ScenarioTest.class
+demo/util/AuthProxyManager$1.class
+demo/features/search/package-info.class
+demo/features/search/LoginFunctionTest.class
+demo/steps/serenity/EndUserSteps.class
